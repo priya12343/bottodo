@@ -15,10 +15,6 @@ import images from '../assets/images/images.png'
     height: "100vh",
     width: "100%"
 };
-
-var image = {
-    Icon: images
-};
   const defaultCenter = {
     lat: 41.3851, lng: 2.1734
   }
